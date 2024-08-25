@@ -4,5 +4,4 @@ int main (){
 
     printf("desafio xadrez\!n");
 
-
 }
